@@ -1,5 +1,6 @@
 ### Hi there :space_invader:
 
+<!--- my stats -->
 <img align="center" alt="ikathuria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikathuria&show_icons=true&hide_border=true" />
 
 ### Stalk me:
