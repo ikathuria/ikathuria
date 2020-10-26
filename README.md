@@ -6,8 +6,8 @@
 
 <!--- heading 1 -->
 # Stalk me:
-<kbd> [<img align="left" alt="ishani.kathuria.net" width="22px" src="https://i2.wp.com/ishani.kathuria.net/wp-content/uploads/2020/10/favicon-32x32-2.png?fit=32%2C32&#038;ssl=1" />](https://ishani.kathuria.net/ "My Website!") </kbd>
+[<img align="left" alt="ishani.kathuria.net" width="30px" src="https://i2.wp.com/ishani.kathuria.net/wp-content/uploads/2020/10/favicon-32x32-2.png?fit=32%2C32&#038;ssl=1" />](https://ishani.kathuria.net/ "My Website!")
 
-[<img align="left" alt="ishani kathuria's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ishani-kathuria/ "My LinkedIn!")
+[<img align="left" alt="ishani kathuria's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ishani-kathuria/ "My LinkedIn!")
 
-[<img align="left" alt="ishani kathuria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ii.meraki.ii/?hl=en "My Instagram!")
+[<img align="left" alt="ishani kathuria's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ii.meraki.ii/?hl=en "My Instagram!")
