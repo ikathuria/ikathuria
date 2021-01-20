@@ -1,10 +1,9 @@
 <!--- heading 1 -->
 <h1 align="center">Hi there!</h1>
 
+<h2 align="center"><b>I'm Ishani</b></h2>
+
 <p align="center">
-    <b>Some Links:</b>
-    <br>
-    I'm Ishani
     <br>
     Welcome to my GitHub :hugs:
     <br><br>
