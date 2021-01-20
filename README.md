@@ -1,9 +1,6 @@
 <!--- heading 1 -->
 # Hi there :hugs:
 
-<!--- my stats -->
-<img align="center" alt="ikathuria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikathuria&show_icons=true&hide_border=true" />
-
 <!--- heading 1 -->
 # Stalk me:
 [<img alt="ishani kathuria's website" width="30px" src="https://ishani.kathuria.net/favicon.ico" />](https://ishani.kathuria.net/ "My Website!")
