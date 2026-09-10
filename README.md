@@ -4,16 +4,17 @@ I'm **Ishani Kathuria**, an AI programmer and researcher passionate about buildi
 
 📚 Current **MS in Artificial Intelligence @ Purdue University (Fall '25)**  
 💼 Software Development Engineer @ **Amazon (OpenSearch, AWS)**  
-🎓 B.Tech in Artificial Intelligence | 📄 Published 4 Research Papers in IEEE and Springer conferences (More coming soon!)  
+🎓 B.Tech in Artificial Intelligence
+📄 Published 4 Research Papers in IEEE and Springer conferences (More coming soon!)  
 
 > *"The beautiful thing about learning is that nobody can take it away from you."*  
 
 ---
 
 ## 💡 Current Focus  
-- 🔍 Research in **Explainable AI** and **RAG (Retrieval-Augmented Generation)**  
+- 🔍 Research in **Safe & Secure AI**, **Explainable AI**, and **RAG (Retrieval-Augmented Generation)**  
 - 🌍 Building AI tools that drive real-world impact  
-- 🚀 Looking for internships in the USA  
+- 🚀 Looking for full time jobs in the USA/India
 
 ---
 
